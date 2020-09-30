@@ -1,0 +1,12 @@
+C:\Users\tc.monteiro\Documents\dev\PMSP\PMSP-TechTest\3.Data\PMESP.TechTest.Dal\PMESP.TechTest.Dal\bin\Debug\netstandard2.0\PMESP.TechTest.Entities.dll
+C:\Users\tc.monteiro\Documents\dev\PMSP\PMSP-TechTest\3.Data\PMESP.TechTest.Dal\PMESP.TechTest.Dal\obj\Debug\netstandard2.0\PMESP.TechTest.Dal.csprojAssemblyReference.cache
+C:\Users\tc.monteiro\Documents\dev\PMSP\PMSP-TechTest\3.Data\PMESP.TechTest.Dal\PMESP.TechTest.Dal\obj\Debug\netstandard2.0\PMESP.TechTest.Dal.AssemblyInfoInputs.cache
+C:\Users\tc.monteiro\Documents\dev\PMSP\PMSP-TechTest\3.Data\PMESP.TechTest.Dal\PMESP.TechTest.Dal\obj\Debug\netstandard2.0\PMESP.TechTest.Dal.AssemblyInfo.cs
+C:\Users\tc.monteiro\Documents\dev\PMSP\PMSP-TechTest\3.Data\PMESP.TechTest.Dal\PMESP.TechTest.Dal\bin\Debug\netstandard2.0\PMESP.TechTest.Dal.deps.json
+C:\Users\tc.monteiro\Documents\dev\PMSP\PMSP-TechTest\3.Data\PMESP.TechTest.Dal\PMESP.TechTest.Dal\bin\Debug\netstandard2.0\PMESP.TechTest.Dal.dll
+C:\Users\tc.monteiro\Documents\dev\PMSP\PMSP-TechTest\3.Data\PMESP.TechTest.Dal\PMESP.TechTest.Dal\bin\Debug\netstandard2.0\PMESP.TechTest.Dal.pdb
+C:\Users\tc.monteiro\Documents\dev\PMSP\PMSP-TechTest\3.Data\PMESP.TechTest.Dal\PMESP.TechTest.Dal\bin\Debug\netstandard2.0\PMESP.TechTest.Entities.pdb
+C:\Users\tc.monteiro\Documents\dev\PMSP\PMSP-TechTest\3.Data\PMESP.TechTest.Dal\PMESP.TechTest.Dal\obj\Debug\netstandard2.0\PMESP.TechTest.Dal.csproj.CopyComplete
+C:\Users\tc.monteiro\Documents\dev\PMSP\PMSP-TechTest\3.Data\PMESP.TechTest.Dal\PMESP.TechTest.Dal\obj\Debug\netstandard2.0\PMESP.TechTest.Dal.dll
+C:\Users\tc.monteiro\Documents\dev\PMSP\PMSP-TechTest\3.Data\PMESP.TechTest.Dal\PMESP.TechTest.Dal\obj\Debug\netstandard2.0\PMESP.TechTest.Dal.pdb
+C:\Users\tc.monteiro\Documents\dev\PMSP\PMSP-TechTest\3.Data\PMESP.TechTest.Dal\PMESP.TechTest.Dal\obj\Debug\netstandard2.0\PMESP.TechTest.Dal.csproj.CoreCompileInputs.cache

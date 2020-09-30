@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "290dYgWtQpaMdXidFWN73Ne6M9/0sHfCZ6NBVFZYdhwiJ4Rk2C0PIu5aWHVKO6HFeV1nwjmdNJxhvo3w6WYeqw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\tc.monteiro\\Documents\\dev\\PMSP\\PMSP-TechTest\\4.Entities\\PMESP.TechTest.Entities\\PMESP.TechTest.Entities\\PMESP.TechTest.Entities.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tc.monteiro\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\tc.monteiro\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\tc.monteiro\\.nuget\\packages\\system.componentmodel.annotations\\4.7.0\\system.componentmodel.annotations.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

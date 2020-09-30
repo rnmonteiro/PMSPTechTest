@@ -1,0 +1,14 @@
+C:\Users\tc.monteiro\Documents\dev\PMSP\PMSP-TechTest\2.Application\PMESP.TechTest.Bll\PMSP.TechTest.Bll\bin\Debug\netstandard2.0\PMSP.TechTest.Bll.deps.json
+C:\Users\tc.monteiro\Documents\dev\PMSP\PMSP-TechTest\2.Application\PMESP.TechTest.Bll\PMSP.TechTest.Bll\bin\Debug\netstandard2.0\PMSP.TechTest.Bll.dll
+C:\Users\tc.monteiro\Documents\dev\PMSP\PMSP-TechTest\2.Application\PMESP.TechTest.Bll\PMSP.TechTest.Bll\bin\Debug\netstandard2.0\PMSP.TechTest.Bll.pdb
+C:\Users\tc.monteiro\Documents\dev\PMSP\PMSP-TechTest\2.Application\PMESP.TechTest.Bll\PMSP.TechTest.Bll\obj\Debug\netstandard2.0\PMSP.TechTest.Bll.csprojAssemblyReference.cache
+C:\Users\tc.monteiro\Documents\dev\PMSP\PMSP-TechTest\2.Application\PMESP.TechTest.Bll\PMSP.TechTest.Bll\obj\Debug\netstandard2.0\PMSP.TechTest.Bll.AssemblyInfoInputs.cache
+C:\Users\tc.monteiro\Documents\dev\PMSP\PMSP-TechTest\2.Application\PMESP.TechTest.Bll\PMSP.TechTest.Bll\obj\Debug\netstandard2.0\PMSP.TechTest.Bll.AssemblyInfo.cs
+C:\Users\tc.monteiro\Documents\dev\PMSP\PMSP-TechTest\2.Application\PMESP.TechTest.Bll\PMSP.TechTest.Bll\obj\Debug\netstandard2.0\PMSP.TechTest.Bll.csproj.CoreCompileInputs.cache
+C:\Users\tc.monteiro\Documents\dev\PMSP\PMSP-TechTest\2.Application\PMESP.TechTest.Bll\PMSP.TechTest.Bll\obj\Debug\netstandard2.0\PMSP.TechTest.Bll.dll
+C:\Users\tc.monteiro\Documents\dev\PMSP\PMSP-TechTest\2.Application\PMESP.TechTest.Bll\PMSP.TechTest.Bll\obj\Debug\netstandard2.0\PMSP.TechTest.Bll.pdb
+C:\Users\tc.monteiro\Documents\dev\PMSP\PMSP-TechTest\2.Application\PMESP.TechTest.Bll\PMSP.TechTest.Bll\bin\Debug\netstandard2.0\PMESP.TechTest.Dal.dll
+C:\Users\tc.monteiro\Documents\dev\PMSP\PMSP-TechTest\2.Application\PMESP.TechTest.Bll\PMSP.TechTest.Bll\bin\Debug\netstandard2.0\PMESP.TechTest.Entities.dll
+C:\Users\tc.monteiro\Documents\dev\PMSP\PMSP-TechTest\2.Application\PMESP.TechTest.Bll\PMSP.TechTest.Bll\bin\Debug\netstandard2.0\PMESP.TechTest.Dal.pdb
+C:\Users\tc.monteiro\Documents\dev\PMSP\PMSP-TechTest\2.Application\PMESP.TechTest.Bll\PMSP.TechTest.Bll\bin\Debug\netstandard2.0\PMESP.TechTest.Entities.pdb
+C:\Users\tc.monteiro\Documents\dev\PMSP\PMSP-TechTest\2.Application\PMESP.TechTest.Bll\PMSP.TechTest.Bll\obj\Debug\netstandard2.0\PMSP.TechTest.Bll.csproj.CopyComplete

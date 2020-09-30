@@ -1,0 +1,9 @@
+C:\Users\tc.monteiro\Documents\dev\PMSP\PMSP-TechTest\4.Entities\PMESP.TechTest.Entities\PMESP.TechTest.Entities\bin\Debug\netstandard2.0\PMESP.TechTest.Entities.deps.json
+C:\Users\tc.monteiro\Documents\dev\PMSP\PMSP-TechTest\4.Entities\PMESP.TechTest.Entities\PMESP.TechTest.Entities\bin\Debug\netstandard2.0\PMESP.TechTest.Entities.dll
+C:\Users\tc.monteiro\Documents\dev\PMSP\PMSP-TechTest\4.Entities\PMESP.TechTest.Entities\PMESP.TechTest.Entities\obj\Debug\netstandard2.0\PMESP.TechTest.Entities.AssemblyInfoInputs.cache
+C:\Users\tc.monteiro\Documents\dev\PMSP\PMSP-TechTest\4.Entities\PMESP.TechTest.Entities\PMESP.TechTest.Entities\obj\Debug\netstandard2.0\PMESP.TechTest.Entities.AssemblyInfo.cs
+C:\Users\tc.monteiro\Documents\dev\PMSP\PMSP-TechTest\4.Entities\PMESP.TechTest.Entities\PMESP.TechTest.Entities\bin\Debug\netstandard2.0\PMESP.TechTest.Entities.pdb
+C:\Users\tc.monteiro\Documents\dev\PMSP\PMSP-TechTest\4.Entities\PMESP.TechTest.Entities\PMESP.TechTest.Entities\obj\Debug\netstandard2.0\PMESP.TechTest.Entities.csprojAssemblyReference.cache
+C:\Users\tc.monteiro\Documents\dev\PMSP\PMSP-TechTest\4.Entities\PMESP.TechTest.Entities\PMESP.TechTest.Entities\obj\Debug\netstandard2.0\PMESP.TechTest.Entities.csproj.CoreCompileInputs.cache
+C:\Users\tc.monteiro\Documents\dev\PMSP\PMSP-TechTest\4.Entities\PMESP.TechTest.Entities\PMESP.TechTest.Entities\obj\Debug\netstandard2.0\PMESP.TechTest.Entities.dll
+C:\Users\tc.monteiro\Documents\dev\PMSP\PMSP-TechTest\4.Entities\PMESP.TechTest.Entities\PMESP.TechTest.Entities\obj\Debug\netstandard2.0\PMESP.TechTest.Entities.pdb
